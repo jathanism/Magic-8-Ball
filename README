@@ -1,0 +1,17 @@
+Magic 8-Ball 1.0
+================
+Script created by Jathan McCollum
+For use with the Adium instant messaging client on Mac OS X
+Inspired by the original Magic 8-Ball toy by Alabe Crafts Company
+
+Installation:
+=============
+To install Magic 8-Ball, simply double-click on the "magic8ball.AdiumScripts" document included with this ReadMe file. Adium should display a message telling that the script has been installed.
+
+If you would like to install the script without launching Adium, or Adium has problems installing Magic 8-Ball, copy "magic8ball.AdiumScripts" to ~Library/Application Support/Adium 2.0/Scripts/
+
+Upon installation, you may erase the .zip file, this readme, and magic8ball.AdiumScripts (unless it is the copy located in ~Library/Application Support/Adium 2.0/Scripts/). 
+
+Usage:
+======
+To use Magic 8-Ball, simply type "/magic8ball" "/8ball" or "%_8ball" in your instant message window. Upon sending your message, the script will replace "/magic8ball" with one of 20 different answers. You may also use Magic 8-Ball in your profile or away messages. This will automatically change your profile and/or away message to a different pun every so often.
