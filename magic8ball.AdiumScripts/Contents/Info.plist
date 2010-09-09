@@ -1,0 +1,26 @@
+{
+	"CFBundleDevelopmentRegion" = English;
+	"CFBundleGetInfoString" = magic8ball;
+	CFBundleIdentifier = "com.adiumx.magic8ball.scripts";
+	"CFBundleInfoDictionaryVersion" = "1.0";
+	CFBundleName = magic8ball;
+	CFBundlePackageType = AdIM;
+	Set = "Magic 8-Ball";
+	Scripts = (
+		{
+			File = magic8ball;
+			Keyword = "/magic8ball";
+			Title = magic8ball;
+		},
+		{
+			File = magic8ball;
+			Keyword = "/8ball";
+			Title = magic8ball;
+		},
+		{
+			File = magic8ball;
+			Keyword = "%_8ball";
+			Title = magic8ball;
+		},
+	);
+}
