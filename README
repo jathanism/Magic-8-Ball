@@ -15,3 +15,9 @@ Upon installation, you may erase the .zip file, this readme, and magic8ball.Adiu
 Usage:
 ======
 To use Magic 8-Ball, simply type "/magic8ball" "/8ball" or "%_8ball" in your instant message window. Upon sending your message, the script will replace "/magic8ball" with one of 20 different answers. You may also use Magic 8-Ball in your profile or away messages. This will automatically change your profile and/or away message to a different answer every so often.
+
+Source:
+=======
+Source code of the applescript is found at src/magic8ball.applescript. 
+
+If you want to modify this script, you must first compile it (using 'osacompile' or 'AppleScript Editor.app') and then copy it to 'magic8ball.AdiumScripts/Contents/Resources/magic8ball.scpt'.
